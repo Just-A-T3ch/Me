@@ -1,5 +1,5 @@
 # Hello, I'm Edriss
-<a href="https://linkedin.com/idrisjibrinprofile"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/idris-jibrin-213535143/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction]
 
@@ -21,9 +21,14 @@ My journey in computer science has led me to develop a passion for software deve
 ## Certifications
 ### MCSA
 <div>
-<img src="https://img.shields.io/badge/-Microsoft_Certified_Solutions_Associate-000080?&style=for-the-badge&logoColor=white)](https://www.microsoft.com/en-us/learning/mcsa-certification.aspx"
-  
+<img src="https://img.shields.io/badge/-Microsoft_Certified_Solutions_Associate-000080?&style=for-the-badge&logoColor=white" />
 </div>
+
+### MCSE
+<div>
+<img src="https://img.shields.io/badge/-Microsoft_Certified_Solutions_Expert-000080?&style=for-the-badge&logoColor=white" />  
+</div>
+
 
 
 
