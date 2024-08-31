@@ -1,11 +1,11 @@
 Hello, I'm Edriss05 Just_A_Tech</>_
-<a href="https://www.linkedin.com/in/idris-jibrin-213535143/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/idris-jibrin-just-a-tech"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 I am an IT enthusiast with a profound interest in technology and a dedication to solving complex problems.
 
 
-My journey in computer science has led me to develop a passion for software development and Cybersecurity, and I am now eager to transition into this field, specifically aiming to join a software developer team as a full stack developer in a reputable company.
+My journey in computer science has led me to develop a passion for software development and Cybersecurity, and I am now eager to dig deep into this field, specifically aiming to join a software developer team as a full stack developer in a reputable company.
 
 ## Skills
 
