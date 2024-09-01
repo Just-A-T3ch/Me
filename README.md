@@ -1,4 +1,4 @@
-Hello, I'm Edriss05 Just_A_Tech</>_
+Hello, I'm Idris,
 
 
 <a href="https://linkedin.com/in/idris-jibrin-just-a-tech"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
