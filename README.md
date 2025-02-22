@@ -7,7 +7,7 @@ Hello, I'm Idris,
 I am an IT enthusiast with a profound interest in technology and a dedication to solving complex problems.
 
 
-My journey in computer science has led me to develop a passion for software development and Cybersecurity, and I am now eager to dig deep into this field, specifically aiming to join a software developer team as a full stack developer in a reputable company.
+My journey in computer science has led me to develop a passion for software development and Cybersecurity, and I am now eager to dig deep into this field, specifically aiming to join a software developer team as a backend developer in a reputable company.
 
 ## Skills
 
